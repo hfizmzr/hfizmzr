@@ -65,8 +65,6 @@ const hafiz = {
 <img src="https://github-readme-stats.vercel.app/api?username=hfizmzr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfizmzr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hfizmzr&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity graph"/>
-
 </div>
 
 ---
